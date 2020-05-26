@@ -45,7 +45,7 @@ e.g. 224x224 is a suitable size for input images, but 225x225 is not.
 [this](https://github.com/keras-team/keras/issues/3867) issue.  
 - Especially [this](https://github.com/keras-team/keras/issues/3867#issuecomment-313336090) comment can be used as a workaround.
 
----
+---...................
 ## Acknowledgment
 0. Some code snippets of EfficientNet are directly borrowed from [this](https://github.com/mingxingtan/efficientnet) repo.
 1. The links of pretrained weights are borrowed from [this](https://github.com/qubvel/efficientnet) repo.
