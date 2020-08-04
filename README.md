@@ -1,5 +1,5 @@
 # EfficientUnet
-Keras Implementation of Unet with [EfficientNet](https://arxiv.org/abs/1905.11946) as encoder.....
+Keras Implementation of Unet with [EfficientNet](https://arxiv.org/abs/1905.11946) as encoder.................
 
 - Unet with EfficientNet encoder
   - EfficientNet-B0
